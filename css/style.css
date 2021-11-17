@@ -18,3 +18,14 @@ footer{
     height: 150px;
     background-color: aqua;
 }
+.box{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: bisque;
+}
+footer>.box{
+    text-align: center;
+    line-height: 150px;
+    color: lightgray;
+}
